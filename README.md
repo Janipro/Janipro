@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jani
-- 👀 I’m interested in technology, coding and video games
-- 🌱 I’m currently learning React, Python (django) and calculus (I don't like calculus)
-- 💞️ I’m looking to collaborate on anything! Preferably web dev atm
+- 👀 I’m interested in technology, coding and games
+- 🌱 I’m currently learning React, Python (django) and flutter
+- 💞️ I’m looking to collaborate on anything! Preferably app development
 - 📫 How to reach me: Message me on LinkedIn 
 
 <!---
