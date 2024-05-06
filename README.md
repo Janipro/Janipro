@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jani
 - 👀 I’m interested in technology, coding, tennis, fitness and games
-- 🌱 I’m currently learning React, Python, Java and Flutter
-- 💞️ I’m looking to collaborate on anything! Preferably app or web development full stack
-- 📫 How to reach me: Message me on LinkedIn or on GitHub
+- 🌱 Currently learning React, Python, Java and Flutter
+- 💞️ Collaborate with me on app or web development (full stack)
+- 📫 Feel free to message me on LinkedIn or on GitHub
 
 <!---
 Janipro/Janipro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
