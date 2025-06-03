@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jani
-- 👀 I’m interested in technology, coding, tennis, fitness and games
-- 🌱 Currently learning React, Python, Java and Flutter
-- 💞️ Collaborate with me on app or web development (full stack) using TypeScript, .NET and C#
+- 👀 I’m interested in technology, coding, tennis, fitness and games, 
+- 🌱 Currently using React, Python and Java
+- 💞️ Collaborate with me on app or web development (full stack) using TypeScript + Express, .NET, AWS or Postgres.
 - 📫 Feel free to message me on LinkedIn or on GitHub
 
 <!---
